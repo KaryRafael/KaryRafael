@@ -26,4 +26,5 @@
 
 ![image](https://img2024.cnblogs.com/blog/3699154/202509/3699154-20250908092040787-1275639749.png)
 
-**Github地址**：https://github.com/KaryRafael
+**[我的 Github 地址](https://github.com/KaryRafael)**
+![微信图片_20250908212842_7_134](https://img2024.cnblogs.com/blog/3699154/202509/3699154-20250908212859703-1682320969.png)
