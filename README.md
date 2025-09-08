@@ -1,16 +1,29 @@
-## Hi there 👋
+# <span style="color:darkred"> **软件工程第一次作业**
 
-<!--
-**KaryRafael/KaryRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| **这个作业属于哪个课程** | **[计科23级34班](https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience)** |
+| ---------- | ---------- |
+| 这个作业要求在哪里 | [自我介绍+软工5问](https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/homework/13478) |
+| 这个作业的目标 | 掌握 Markdown 排版和博客的使用 |
 
-Here are some ideas to get you started:
+## 一、自我介绍
+我是23级计算机科学与技术4班的李恺凝，来自广东东莞。
+- **👯兴趣爱好**：我喜欢玩任天堂、看电影和拉小提琴。最喜欢的电影是*星际穿越*，最喜欢的曲子是*拉赫玛尼诺夫第二钢琴协奏曲*。
+- **🔭学习经历**：掌握 Python 和 C语言，热爱平面设计，有小程序界面设计和网页界面设计的经验；对游戏开发有浓厚兴趣，目前正在学习 shader。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 二、对课程的问题
+1. 软件开发过程中，有哪些过程模型？哪些适用于面向对象的软件开发？
+2. 软件工程三要素分别是什么？它们之间有什么关系？
+3. 黑盒测试和白盒测试分别是什么？它们之间有什么区别？
+4. 在软件开发中，如何确保代码的可维护性？
+5. 软件生命周期的各个阶段及其主要任务分别是什么？
+
+## 三、期望的收获
+1. **培养用系统思维解决实际问题的能力**：学会从需求、设计、开发到落地的全流程视角拆解问题，协调不同模块的功能配合，提升高效解决问题的能力。
+2. **了解如何降低软件开发的成本与风险**：通过合理的项目规划与流程设计，提前识别需求模糊、技术选型不当等潜在风险并制定应对方案。
+3. **建立代码规范与可维护的开发意识**：养成遵循统一编码标准的习惯，主动考虑后续维护和迭代需求，避免过度耦合、逻辑混乱等问题，减少后期维护的难度和成本。
+
+## 四、截图与GitHub地址
+
+![image](https://img2024.cnblogs.com/blog/3699154/202509/3699154-20250908092040787-1275639749.png)
+
+**Github地址**：https://github.com/KaryRafael/KaryRafael
